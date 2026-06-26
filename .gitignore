@@ -1,0 +1,8 @@
+venv/
+**pycache**/
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
+models/*.pkl
+data/*
+!data/.gitkeep
